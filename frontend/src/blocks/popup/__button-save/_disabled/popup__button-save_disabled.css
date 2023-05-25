@@ -1,0 +1,12 @@
+.popup__button-save_disabled {
+  color: var(--black);
+  background-color: var(--white);
+  border: 1px solid var(--black);
+  box-sizing: border-box;
+  opacity: .2;
+  cursor: auto;
+}
+
+.popup__button-save_disabled:hover {
+  opacity: 0.2;
+}

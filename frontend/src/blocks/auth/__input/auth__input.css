@@ -1,0 +1,9 @@
+.auth__input {
+  color: var(--input-grey);
+  background-color: var(--black);
+  border-bottom: 2px solid var(--input-grey);
+}
+
+.auth__input::placeholder {
+  color: var(--input-grey);
+}

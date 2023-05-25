@@ -1,0 +1,7 @@
+.auth__button-save_disabled {
+    opacity: 0.6;
+}
+
+.auth__button-save:hover {
+    opacity: 0.6;
+}

@@ -1,0 +1,15 @@
+.header {
+  min-height: 84px;
+  border-bottom: 1px solid var(--grey);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+}
+
+@media (min-width: 768px) {
+  .header {
+    min-height: 120px;
+  }
+}

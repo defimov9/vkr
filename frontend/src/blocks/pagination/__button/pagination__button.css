@@ -1,0 +1,12 @@
+.pagination__button {
+    border: none;
+    background: transparent;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 20px;
+    transition: opacity 0.2s linear;
+}
+
+.pagination__button:disabled {
+    opacity: 0.6;
+}

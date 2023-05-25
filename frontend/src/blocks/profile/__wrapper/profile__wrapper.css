@@ -1,0 +1,13 @@
+.profile__wrapper {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+
+@media (min-width: 768px) {
+  .profile__wrapper {
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+}

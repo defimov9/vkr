@@ -1,0 +1,17 @@
+.pagination__number {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    color: #FFF;
+    cursor: pointer;
+    transition: opacity 0.2s linear;
+    opacity: 0.6;
+}
+
+.pagination__number:disabled {
+    opacity: 1;
+}
+
+.pagination__number:hover {
+    opacity: 1;
+}

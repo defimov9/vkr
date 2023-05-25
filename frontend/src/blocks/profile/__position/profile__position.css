@@ -1,0 +1,19 @@
+.profile__position {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+ }
+
+@media (min-width: 768px) {
+  .profile__position {
+    margin: 0 18px 0 0;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

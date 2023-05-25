@@ -1,0 +1,6 @@
+.auth {
+  text-align: center;
+  padding: 60px 0 80px;
+  height: calc(100vh - 120px);
+  box-sizing: border-box;
+}

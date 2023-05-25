@@ -1,0 +1,8 @@
+.auth__button-save {
+  background-color: var(--white);
+  color: var(--black);
+}
+
+.auth__button-save:hover {
+  opacity: 0.85;
+}
